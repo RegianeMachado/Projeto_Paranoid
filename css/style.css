@@ -1,5 +1,5 @@
 .navbar-brand img{
-  width: 250px;
+  width: 150px;
 }
 
 .btn.btn-primary{
@@ -14,4 +14,12 @@ section{
 
 html{
   scroll-behavior: smooth;
+}
+
+.navbar{
+  height: 100px;
+}
+
+.nav-link{
+  font-size: 24px;
 }
